@@ -1,6 +1,6 @@
 [ENGLISH](README.md), [한국어](README-KR.md)
 
-# 묘단 (홍종호)
+# 홍종호
 
 > 이것저것 만들어보고 배우는 중입니다.
 
@@ -33,8 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032)
 ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws&logoColor=232F3E)
-![Github Actions](https://img.shields.io/badge/Github%20Actions-282C34?logo=github%20actions&logoColor=2088FF)
-![Jest](https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325)
 
 ## 자격증
 
