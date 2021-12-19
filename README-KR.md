@@ -50,4 +50,4 @@
 
 ![Discord Myodan#8278](https://img.shields.io/badge/Myodan%238278-5865F2?logo=discord&logoColor=FFFFFF)
 ![Linkedin Myodan](https://img.shields.io/badge/Myodan-0077B5?logo=linkedin&logoColor=FFFFFF)
-![kr.myodan@gmail.com](https://img.shields.io/badge/kr.myodan@gmail.com-D14836?logo=gmail&logoColor=FFFFFF)
+![myodan@pm.me](https://img.shields.io/badge/myodan@pm.me-8B89CC?logo=protonmail&logoColor=FFFFFF)
