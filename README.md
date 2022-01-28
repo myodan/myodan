@@ -48,6 +48,6 @@
 
 ## Contact
 
-![Discord Myodan#8278](https://img.shields.io/badge/Myodan%238278-5865F2?logo=discord&logoColor=FFFFFF)
-![Linkedin Myodan](https://img.shields.io/badge/Myodan-0077B5?logo=linkedin&logoColor=FFFFFF)
-![myodan@pm.me](https://img.shields.io/badge/myodan@pm.me-8B89CC?logo=protonmail&logoColor=FFFFFF)
+[![Discord Myodan#8278](https://img.shields.io/badge/Myodan%238278-5865F2?logo=discord&logoColor=FFFFFF)](https://discord.com/users/373375287007641613)
+[![Linkedin Myodan](https://img.shields.io/badge/Myodan-0077B5?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/myodan)
+[![myodan@pm.me](https://img.shields.io/badge/myodan@pm.me-8B89CC?logo=protonmail&logoColor=FFFFFF)](mailto:myodan@pm.me)
