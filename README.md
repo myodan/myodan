@@ -34,18 +34,6 @@
 ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws&logoColor=232F3E)
 
-## Certificate
-
-### Craftsman Electronic Apparatus [(HRDK)](https://hrdkorea.or.kr)
-
-- Date of Passed: 06. 08. 2020
-- Certificate No: 20503130460K
-
-### Craftsman Information Processing [(HRDK)](https://hrdkorea.or.kr)
-
-- Date of Passed: 18. 07. 2019
-- Certificate No: 19803130616U
-
 ## Contact
 
 [![Discord Myodan#8278](https://img.shields.io/badge/Myodan%238278-5865F2?logo=discord&logoColor=FFFFFF)](https://discord.com/users/373375287007641613)
