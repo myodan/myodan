@@ -34,18 +34,6 @@
 ![Docker](https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon%20aws&logoColor=232F3E)
 
-## 자격증
-
-### 전자기기기능사 [(한국산업인력공단)](https://hrdkorea.or.kr)
-
-- 합격일자: 2020. 08. 06
-- 자격증 번호: 20503130460K
-
-### 정보처리기능사 [(한국산업인력공단)](https://hrdkorea.or.kr)
-
-- 합격일자: 2019. 07. 18
-- 자격증 번호: 19803130616U
-
 ## 연락
 
 [![Discord Myodan#8278](https://img.shields.io/badge/Myodan%238278-5865F2?logo=discord&logoColor=FFFFFF)](https://discord.com/users/373375287007641613)
