@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=FFFFFF)
 
 ### Frontend
 
