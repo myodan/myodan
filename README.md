@@ -38,4 +38,4 @@
 
 [![Discord Myodan](https://img.shields.io/badge/myodan-5865F2?logo=discord&logoColor=FFFFFF)](https://discord.com/users/373375287007641613)
 [![Linkedin Myodan](https://img.shields.io/badge/myodan-0077B5?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/myodan)
-[![myodan@pm.me](https://img.shields.io/badge/myodan@pm.me-8B89CC?logo=protonmail&logoColor=FFFFFF)](mailto:myodan@pm.me)
+[![myodan@pm.me](https://img.shields.io/badge/myodan@pm.me-6D4AFF?logo=protonmail&logoColor=FFFFFF)](mailto:myodan@pm.me)
